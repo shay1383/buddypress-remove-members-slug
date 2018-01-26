@@ -1,4 +1,5 @@
 BuddyPress Remove Members Slug
+
 If you want to get rid of BuddyPress' annoying /Members/ slug, simply use this plugin.
 For example: www.example.com/members/john/ >> www.example.com/john/
 
