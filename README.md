@@ -5,7 +5,7 @@ For example: www.example.com/members/john/ >> www.example.com/john/
 
 Consider using the plugin "Restrict Usernames" to avoid problems with your pages.
 
-If you are familiar with functions.php I suggest to use the following line instead of using the plugin:
+If you are familiar with functions.php I suggest you to use the following line instead of using the plugin:
 ```
 add_filter( 'bp_core_enable_root_profiles', '__return_true' );
 ```
