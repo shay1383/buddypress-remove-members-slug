@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: BuddyPress Remove Members Slug
-Description: Removes BuddyPress /members/ from users' slug. Requires "BuddyPress" plugin. Consider use the plugin "Restrict Usernames" to avoid problems with your pages.
+Description: Removes BuddyPress /members/ from users' slug. Requires "BuddyPress" plugin. Consider using the plugin "Restrict Usernames" to avoid problems with your pages.
 Version: 1.0
 Author: Shay Seferstein <shay1383@gmail.com>
 Author URI: https://shay.seferstein.com
